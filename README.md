@@ -2,6 +2,8 @@
 
 <img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/cb754279-4421-4786-90ce-853367e65e12" />
 
+<img width="2557" height="1077" alt="image" src="https://github.com/user-attachments/assets/e9ed8ada-e860-4bd4-aecb-15655f55a84b" />
+
 Para crear un sistema que genere una serie de 1056 números, los muestre en un frontend hecho en JavaScript (por ejemplo, usando HTML + JS en Visual Studio Code) y 
 procese los datos en un backend desarrollado en Visual Studio 2022 (usando, por ejemplo, ASP.NET Core), te puedo guiar paso a paso.
 
